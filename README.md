@@ -10,5 +10,7 @@ Le deuxième enjeu est d’intégrer des outils d’interaction (robots, sorties
 Le programme principal du projet (situé sous IntegrationGlobale\src\main\java\Assemblage\CreationScratch.java) prend en entrée un cliché de l'algorithme réalisé physiquement en Scratch (disponible sous ClichesAlgorithmes/Algorithme.jpg) et un fichier ScratchOriginal.zip comprenant la structure d'un programme écrit en Scratch et stocké au format JSON. 
 La méthode principale implémente un algorithme de reconnaissance qui transforme un cliché d'un algorithme Scratch en un projet Scratch 3.0 au format .sb3 directement interprétable informatiquement.
 
+![Reconnaissance Algorithme Scratch](https://user-images.githubusercontent.com/79979599/109825947-9d10bf80-7c3a-11eb-9176-78ce7325e410.PNG)
+
 
 
